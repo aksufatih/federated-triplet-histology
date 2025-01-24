@@ -1,4 +1,5 @@
 # Enhancing NSCLC Histological Subtype Classification: A Federated Learning Approach Using Triplet Loss
+<p align="center"><img src="training.svg" width="700"></p>
 
 ## Usage
 
